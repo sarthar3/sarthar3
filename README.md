@@ -1,7 +1,7 @@
 # 🚀 Hey, I'm Sarvesh Tharun!
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">  
-💡 **AI & Data Science Engineer | Web Developer | Automation Builder (n8n)**
+💡 AI & Data Science Engineer | Web Developer | Automation Builder (n8n) | Cloud Computing
 
 ---
 
