@@ -1,13 +1,14 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Tharun%20R&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20Web%20Dev%20%7C%20Automation%20Builder&descAlignY=58&descSize=18)
+
 <div align="center">
 
-<!-- Typing SVG Banner -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Tharun+R+%F0%9F%91%8B;AI+%26+Data+Science+Engineer;Web+Developer+%7C+Automation+Builder;Building+Real-World+AI+Projects+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00C4FF&center=true&vCenter=true&multiline=false&width=700&lines=Hey+there!+I'm+Tharun+👋;Building+AI+Agents+%26+Automations+🤖;Data+Science+%7C+ML+%7C+Web+Dev+🚀;Top+32+in+National+AI+Hackathon+🏆;Coimbatore%2C+India+📍)](https://git.io/typing-svg)
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarvesh-tharun)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sarthar3)
-[![Profile Views](https://komarev.com/ghpvc/?username=sarthar3&style=for-the-badge&color=blue)](https://github.com/sarthar3)
+[![Profile Views](https://komarev.com/ghpvc/?username=sarthar3&style=for-the-badge&color=00C4FF&label=PROFILE+VIEWS)](https://github.com/sarthar3)
 
 </div>
 
@@ -24,6 +25,8 @@ class Tharun:
     currently  = "Building real-world AI & Web projects"
     fun_fact   = "I build complex projects even before mastering everything 😄"
 ```
+
+<img src="https://media.giphy.com/media/ZVik7pIojeM0egoxQq/giphy.gif" width="100%" height="3px">
 
 ---
 
@@ -51,7 +54,7 @@ class Tharun:
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ### 📊 Data & Cloud
-![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -73,7 +76,7 @@ class Tharun:
 | 🥽 | [**Virtual Clothes Try-On**](https://github.com/sarthar3/Virtual-Clothes-TryOn) | WebAR app for real-time outfit try-on using webcam with pose detection, photo capture & auth | `Three.js` `Flask` `HTML` |
 | 📄 | [**AI Resume Checker**](https://github.com/sarthar3/Resume-Checker-Hackathon) | NLP + OpenAI-powered resume scoring tool for HR teams to filter candidates by JD | `Python` `OpenAI` `NLP` |
 | 🐄 | [**Animal Disease Prediction**](https://github.com/sarthar3/Animal-Disease-Prediction) | ML model (Random Forest) predicting animal diseases from symptoms via a Flask web app | `Python` `Scikit-Learn` `Flask` |
-| 🆔 | [**UIDAI Aadhaar Analytics**](https://github.com/sarthar3/UIDAI---Analysis-of-Aadhaar-Enrolment-and-Demographic-Update-Data) | Web analytics system to process & visualize Aadhaar enrolment & demographic update data | `Python` `Power BI` `SQL` |
+| 🆔 | [**UIDAI Aadhaar Analytics**](https://github.com/sarthar3/UIDAI---Analysis-of-Aadhaar-Enrolment-and-Demographic-Update-Data) | Analytics system to process & visualize Aadhaar enrolment & demographic update data | `Python` `Power BI` `SQL` |
 | 📚 | [**RocDoc — AI Document Assistant**](https://github.com/sarthar3/RocDoc) | Private AI assistant for PDFs/Markdown/text with NLP Q&A and citation-grounded responses | `Python` `LangChain` `Flask` |
 | 📊 | [**Exploratory Data Analytics Tool**](https://github.com/sarthar3/Exploratory-Data-Analytics) | Automated EDA tool that cleans, analyzes & visualizes datasets with minimal manual effort | `Python` `Pandas` `Matplotlib` |
 
@@ -83,20 +86,33 @@ class Tharun:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sarthar3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthar3&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sarthar3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00C4FF&icon_color=00C4FF" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthar3&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C4FF" height="170"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sarthar3&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sarthar3&theme=tokyonight&hide_border=true&background=0d1117&ring=00C4FF&fire=FF6B6B&currStreakLabel=00C4FF)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![Tharun's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sarthar3&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00C4FF&line=00C4FF&point=FF6B6B)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
 ## 🏆 Achievements
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sarthar3&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 - 🥇 **Top 32** out of 1000+ teams in national AI Hackathon
 - 🆔 **UIDAI Data Hackathon 2026** — Analytics platform for 5M+ Aadhaar records
@@ -118,9 +134,16 @@ class Tharun:
 
 <div align="center">
 
-![Snake animation](https://github.com/sarath3/sarath3/raw/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sarthar3/sarthar3/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sarthar3/sarthar3/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/sarthar3/sarthar3/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
+
+> ⚠️ **Note:** To activate the snake, add this GitHub Action to your repo:
+> `.github/workflows/snake.yml` → [Click here for the setup guide](https://github.com/Platane/snk)
 
 ---
 
@@ -128,6 +151,8 @@ class Tharun:
 
 ### ⚡ *"I build complex projects even before mastering everything 😄"*
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=00C4FF&height=100&section=footer)
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> &nbsp; *I love connecting with people — feel free to reach out!*
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
 
 </div>
